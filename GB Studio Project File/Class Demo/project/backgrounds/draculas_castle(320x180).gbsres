@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "8c1c0316-1f7d-4497-8ac9-0000d9a68242",
+  "name": "Dracula's Castle(320X180)",
+  "symbol": "bg_dracula_s_castle_320x180",
+  "width": 40,
+  "height": 22,
+  "imageWidth": 320,
+  "imageHeight": 180,
+  "filename": "Dracula's Castle(320X180).png",
+  "tileColors": "",
+  "autoColor": false
+}

@@ -1,0 +1,65 @@
+{
+  "_resourceType": "variables",
+  "variables": [
+    {
+      "id": "0",
+      "name": "Player X",
+      "symbol": "var_player_x"
+    },
+    {
+      "id": "1",
+      "name": "Player Y",
+      "symbol": "var_player_y"
+    },
+    {
+      "id": "2",
+      "name": "Health",
+      "symbol": "var_health"
+    },
+    {
+      "id": "3",
+      "name": "Donut Counter",
+      "symbol": "var_donut_counter"
+    },
+    {
+      "id": "0bc727ca-00fc-473f-abfd-3b2eca1fcf70__L0",
+      "name": "Actor X",
+      "symbol": "var_actor_x"
+    },
+    {
+      "id": "0bc727ca-00fc-473f-abfd-3b2eca1fcf70__L1",
+      "name": "Actor Y",
+      "symbol": "var_actor_y"
+    },
+    {
+      "id": "a0eb5db1-f6e7-4040-b11b-523af7c76856__L0",
+      "name": "Actor X",
+      "symbol": "var_actor_x_0"
+    },
+    {
+      "id": "a0eb5db1-f6e7-4040-b11b-523af7c76856__L1",
+      "name": "Actor Y",
+      "symbol": "var_actor_y_0"
+    },
+    {
+      "id": "beeb92e3-1d9b-4e3a-827d-65b9101a17b1__L0",
+      "name": "Actor X",
+      "symbol": "var_actor_x_1"
+    },
+    {
+      "id": "beeb92e3-1d9b-4e3a-827d-65b9101a17b1__L1",
+      "name": "Actor Y",
+      "symbol": "var_actor_y_1"
+    },
+    {
+      "id": "81544e4a-9b6e-41cb-aef8-1e34a7b475f9__L0",
+      "name": "Actor X",
+      "symbol": "var_actor_x_2"
+    },
+    {
+      "id": "81544e4a-9b6e-41cb-aef8-1e34a7b475f9__L1",
+      "name": "Actor Y",
+      "symbol": "var_actor_y_2"
+    }
+  ]
+}

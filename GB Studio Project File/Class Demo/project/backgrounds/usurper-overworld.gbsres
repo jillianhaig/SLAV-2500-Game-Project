@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "e75535a3-d615-4e78-8df8-52767aad449c",
+  "name": "usurper-overworld",
+  "symbol": "bg_usurper_overworld",
+  "width": 168,
+  "height": 111,
+  "imageWidth": 1344,
+  "imageHeight": 888,
+  "filename": "usurper-overworld.png",
+  "tileColors": "",
+  "autoColor": false
+}
